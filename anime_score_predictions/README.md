@@ -1,4 +1,4 @@
-# Anime-score prediction with linear regression
+# Anime-score prediction with Linear Regression
 ### Note
 >This project is made to learn the fundamental of trying to learn how to use pytorch, scrape and process data from webpage. **_This project is by no mean a complete work or working project_**.
 ### Requirements
@@ -37,7 +37,7 @@ To run predict model run </br>
 `python anime_score_predict.py`
 
 ## References
-[MyAnimeList user scores: Fun with web scraping and linear regression](https://towardsdatascience.com/myanimelist-user-scores-fun-with-web-scraping-and-linear-regression-9dd97900a82b)
+[MyAnimeList user scores: Fun with web scraping and linear regression](https://towardsdatascience.com/myanimelist-user-scores-fun-with-web-scraping-and-linear-regression-9dd97900a82b) </br>
 [Scraping Data Using Beautiful Soup and Python](https://blog.jovian.ai/scraping-data-using-beautiful-soup-and-python-4170e7ec63fd)
 ## Afterword
 Through this I gain some basic skills in: </br>

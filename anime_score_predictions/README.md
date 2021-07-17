@@ -28,6 +28,7 @@ Each anime displayed we focus on the data genres of the current and anime and it
 | Fullmetal Alchemist: Brotherhood       | ['Action', 'Military', 'Adventure', 'Comedy', 'Drama', 'Magic', 'Fantasy', 'Shounen'] | 9.17  |
 | Sword Art Online                       | ['Action', 'Game', 'Adventure', 'Romance', 'Fantasy']                                 | 7.22  |
 <br/>
+
 To start generating data run </br>
 `python scrape_data.py`
 

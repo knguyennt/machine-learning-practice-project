@@ -37,8 +37,8 @@ To run predict model run </br>
 `python anime_score_predict.py`
 
 ## References
-[MyAnimeList user scores: Fun with web scraping and linear regression](https://towardsdatascience.com/myanimelist-user-scores-fun-with-web-scraping-and-linear-regression-9dd97900a82b) </br>
-[Scraping Data Using Beautiful Soup and Python](https://blog.jovian.ai/scraping-data-using-beautiful-soup-and-python-4170e7ec63fd)
+- [MyAnimeList user scores: Fun with web scraping and linear regression](https://towardsdatascience.com/myanimelist-user-scores-fun-with-web-scraping-and-linear-regression-9dd97900a82b) </br>
+- [Scraping Data Using Beautiful Soup and Python](https://blog.jovian.ai/scraping-data-using-beautiful-soup-and-python-4170e7ec63fd)
 ## Afterword
 Through this I gain some basic skills in: </br>
 - Scraping and process data using pandas and beautifulsoup <br>

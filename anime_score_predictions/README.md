@@ -30,7 +30,6 @@ Each anime displayed we focus on the data genres of the current and anime and it
 <br/>
 To start generating data run </br>
 `python scrape_data.py` 
-</br>
 When data is generated, data is saved at csv format in data_dir folder. </br>
 To run predict model run
 `python anime_score_predict.py`
